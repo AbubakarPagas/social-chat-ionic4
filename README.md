@@ -1,10 +1,10 @@
-# facebook-clone-ionic4
+### facebook-clone-ionic4
 This Application  covers everything that you need in facebook, also I done in ionic 4 and firebase leatest version. This is clean code, the same functionality of facebook…. 
 Let me go in deeper, facebook is social network , I spend days , time and hour to help other developer, save there time, this application every 3 week will be update base on changes framework.
 (“This Application is tested and trusted  on IOS and Android device”) grantee, we used two technologies ionic 4 and firebase, also the language used SASS, Which is known as CSS styling for each pages, and typescript?
 
-1st Version
-	Facebook Chat with ionic 4 fully Hybrid App using Angular 8.
+### 1st Version
+ <h4> Facebook Chat with ionic 4 fully Hybrid App using Angular 8. ,</h4>
 	User Login and Register.
 	User Login with Facebook Account.
 	User Login with Google Account.

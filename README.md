@@ -1,15 +1,15 @@
 ### facebook-clone-ionic4
 This Application  covers everything that you need in facebook, also I done in ionic 4 and firebase leatest version. This is clean code, the same functionality of facebook…. 
-Let me go in deeper, facebook is social network , I spend days , time and hour to help other developer, save there time, this application every 3 week will be update base on changes framework.
-(“This Application is tested and trusted  on IOS and Android device”) grantee, we used two technologies ionic 4 and firebase, also the language used SASS, Which is known as CSS styling for each pages, and typescript?
+Let me go in deeper, facebook is social network , I spend days , time and hour to help other developer, save there time, this application every 3 week will be update base on changes framework./n
+/n(“This Application is tested and trusted  on IOS and Android device”) grantee, we used two technologies ionic 4 and firebase, also the language used SASS, Which is known as CSS styling for each pages, and typescript?
 
 ### 1st Version
-<h4> Facebook Chat with ionic 4 fully Hybrid App using Angular 8.</h4>
-<h4> User Login and Register </h4>
+<h4><ul>Facebook Chat with ionic 4 fully Hybrid App using Angular 8.</ul></h4>
+<h4>User Login and Register </h4>
 <h4>User Login with Facebook Account.</h4>
 <h4>User Login with Google Account.</h4>
-<h4>	User Chat with each other Encrypted base on his friend.<h4>
-<h4>er Share Image.</h4>
+<h4>User Chat with each other Encrypted base on his friend.<h4>
+<h4>User Share Image.</h4>
 <h4>User can also post through his timeline.</h4>
 <h4>User like and Comment to post.</h4>
 <h4>User can view his Comment Notification and Replay, base on what his post on the timeline.</h4>

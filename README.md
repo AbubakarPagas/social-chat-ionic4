@@ -4,7 +4,7 @@ Let me go in deeper, facebook is social network , I spend days , time and hour t
 <br>(“This Application is tested and trusted  on IOS and Android device”) grantee, we used two technologies ionic 4 and firebase, also the language used SASS, Which is known as CSS styling for each pages, and typescript?
 
 ### 1st Version
-<h4><ol>Facebook Chat with ionic 4 fully Hybrid App using Angular 8.</ol></h4>
+<h4>Facebook Chat with ionic 4 fully Hybrid App using Angular 8.</h4>
 <h4>User Login and Register </h4>
 <h4>User Login with Facebook Account.</h4>
 <h4>User Login with Google Account.</h4>
@@ -31,14 +31,14 @@ Let me go in deeper, facebook is social network , I spend days , time and hour t
 Note: <span>Please  if you have any suggestion or extra feature you want to change, Please mail me (“abubakarpagas@gmail.com”).</span>
 
 
-Requirments
-•	Xcode
-•	visual studio code.
-•	Android studio.
-•	Node js.
-•	Ionic 4 framework.
-•	Firebase.
-•	Cordova.
+### Requirments
+<h5>•	Xcode</h5>
+<h5>•	visual studio code.</h5>
+<h5>•	Android studio.</h5>
+<h5>•	Node js.</h5>
+<h5>•	Ionic 4 framework.</h5>
+<h5>•	Firebase.</h5>
+<h5>•	Cordova.</h5>
 
 
 <img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" />

@@ -26,9 +26,10 @@ Let me go in deeper, facebook is social network , I spend days , time and hour t
 <h4>User create groups Chat.</h4>
 <h4>Groups Admin, also add friend to group.</h4>
 <h4>Admin can delete report post.</h4>
-</h4>User can delete Message.</h4>
+<h4>User can delete Message.</h4>
 <h4>E.T.C…</h4>
-Note: <span>Please  if you have any suggestion or extra feature you want to change, Please mail me (“abubakarpagas@gmail.com”).</span>
+### Note: 
+  <span>Please  if you have any suggestion or extra feature you want to change, Please mail me (“abubakarpagas@gmail.com”).</span>
 
 
 ### Requirments

@@ -42,4 +42,4 @@ Let me go in deeper, facebook is social network , I spend days , time and hour t
 <h5>•	Cordova.</h5>
 
 
-<img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" />
+<img src="Review-ScreenShot/comment.png" height="300em" /> <img src="ss2.png" height="300em" />

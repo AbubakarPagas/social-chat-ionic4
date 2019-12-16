@@ -1,7 +1,18 @@
 ### facebook-clone-ionic4
-This Application  covers everything that you need in facebook, also I done in ionic 4 and firebase leatest version. This is clean code, the same functionality of facebook…. 
-Let me go in deeper, facebook is social network , I spend days , time and hour to help other developer, save there time, this application every 3 week will be update base on changes framework.</br>
-<br>(“This Application is tested and trusted  on IOS and Android device”) grantee, we used two technologies ionic 4 and firebase, also the language used SASS, Which is known as CSS styling for each pages, and typescript?
+ <p>
+        Document: <a
+            href="https://drive.google.com/open?id=1MHqUnbSS_5YDX_v7BB1l8oSUVz1LqRh3">https://drive.google.com/open?id=1MHqUnbSS_5YDX_v7BB1l8oSUVz1LqRh3</a>
+    </p>
+    <p><strong>Overview</strong> </p>
+    <hr>
+    <p>
+        This Application covers everything that you need in facebook, also I done in ionic 4 and firebase leatest
+        version. This is clean code, the same functionality of facebook. This Application tested and trusted on Android,
+        OS, also this code is written on ionic 4 framework and firebase leatest version,
+        the app uses SASS, which is known as CSS with power of each component has dedicated SASS file for styling make
+        it
+        very beautiful looking UI.
+    </p>
 
 YoutubeURL : https://www.youtube.com/watch?v=OznzcyiKqbY 
 

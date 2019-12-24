@@ -1,27 +1,29 @@
-### facebook-clone-ionic4
+### social-chat-ionic4
  <p>
         Document: <a
             href="https://drive.google.com/open?id=1MHqUnbSS_5YDX_v7BB1l8oSUVz1LqRh3">https://drive.google.com/open?id=1MHqUnbSS_5YDX_v7BB1l8oSUVz1LqRh3</a>
     </p>
+     <p>
+        Android apk: <a href=""></a>
+    </p>
     <p><strong>Overview</strong> </p>
     <hr>
     <p>
-        This Application covers everything that you need in facebook, also I done in ionic 4 and firebase leatest
-        version. This is clean code, the same functionality of facebook. This Application tested and trusted on Android,
-        OS, also this code is written on ionic 4 framework and firebase leatest version,
-        the app uses SASS, which is known as CSS with power of each component has dedicated SASS file for styling make
-        it
-        very beautiful looking UI.
+       This Application covers everything that you need in social chat application, in ionic 4 and firebase leatest
+        version. This is clean code, more readable and beautiful, the same functionality of facebook, whatsapp,
+        messenger This Application tested and trusted on Android, OS, also this code is written on ionic 4 framework and
+        firebase leatest version, the app uses SASS, which is known as CSS with power of each component has dedicated
+        SASS file for styling make it very beautiful looking UI.
     </p>
 
 YoutubeURL : https://www.youtube.com/watch?v=OznzcyiKqbY 
 
  <hr>
-    <h1>
+    <h2>
         1st Version
-    </h1>
+    </h2>
     <ul>
-        <li>Facebook Chat with ionic 4 fully Hybrid App using Angular 8.</li>
+        <li>Social Chat Application with ionic 4 fully Hybrid App using Angular 8.</li>
         <li>Implement Push notification.</li>
         <li>App will release in PWA.</li>
         <li>Multiple language support.</li>

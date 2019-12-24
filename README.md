@@ -1,7 +1,7 @@
 ### social-chat-ionic4
  <p>
         Document: <a
-            href="https://drive.google.com/open?id=1MHqUnbSS_5YDX_v7BB1l8oSUVz1LqRh3">https://drive.google.com/open?id=1MHqUnbSS_5YDX_v7BB1l8oSUVz1LqRh3</a>
+            href="https://drive.google.com/open?id=11KOegaUM4nhAbU2_C4T8nG_qhq8SPac_">https://drive.google.com/open?id=11KOegaUM4nhAbU2_C4T8nG_qhq8SPac_</a>
     </p>
      <p>
         Android apk: <a href="https://drive.google.com/open?id=1H1_TdqjUXqpwmRaGk_DbM4SvqdI5mbB-">https://drive.google.com/open?id=1H1_TdqjUXqpwmRaGk_DbM4SvqdI5mbB-</a>
@@ -15,7 +15,7 @@
         firebase leatest version, the app uses SASS, which is known as CSS with power of each component has dedicated
         SASS file for styling make it very beautiful looking UI.
     </p>
-        <img src="review-screenshot/Review-ScreenShot/review.png" style="align-items: center;" width="590px" height="300px" alt="">
+     <img src="Review-ScreenShot/review.png" style="align-items: center;" width="590px" height="300px" alt="">
 
 
 YoutubeURL : https://www.youtube.com/watch?v=OznzcyiKqbY 
